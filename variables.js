@@ -22,9 +22,9 @@ console.log(isHungry)
 console.log(isTired)
 console.log(hasBurger)
 
-var person = "Carissa"
-var fruit = "pumpkin"
-var animal = "pegasus"
+person = "Carissa"
+fruit = "pumpkin"
+animal = "pegasus"
 
 console.log(person)
 console.log(fruit)
